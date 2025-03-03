@@ -1,6 +1,12 @@
-# eCommerce Starter Project
+# eCommerce Wix Libraries
 
-Welcome to our eCommerce Starter project! This is an online shopping platform that uses Wix Headless as the back office for managing the store. This project is designed to be your stepping stone to creating your own online store. It's simple, straightforward, and combines various technologies.
+# eCommerce Wix Libraries https://vercel.com/julians-projects-b460b649/ecommerce/Hq4VuTd93VhdhKS2DBoomh7Wj3ec
+
+![image](https://github.com/user-attachments/assets/55159f0c-a8df-40c0-94f9-74b707d03c7e)
+![image](https://github.com/user-attachments/assets/e1fc72e6-1b70-4458-9b7c-6fb4ea90b7dd)
+![image](https://github.com/user-attachments/assets/5152f072-c305-4e93-bab2-a49436149be7)
+![image](https://github.com/user-attachments/assets/50ecf68e-0e5a-4fae-bee1-1a1c50bf0216)
+
 
 ## Project Overview
 
